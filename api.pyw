@@ -30,7 +30,7 @@ const_list=["name","company_number","jurisdiction_code", "company_type", "regist
 # sheet1=wb.add_sheet("Sheet 1")
 headigs=["Name", "Company Number", "Jurisdiction Code", "Company Type", "Registry URL", "Branch", "Branch Status", "Current Status", "Street Address", "Locality", "Region","Postal Code","Country"]
 
-api_token="Tq7yyixctyJHfYv9ownf"
+api_token=""
 parameters={
     "industry_codes":"eu_nace_2-7211",
     "api_token":api_token,
